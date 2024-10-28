@@ -1,0 +1,6 @@
+@ASP.FluentValidation_HostAddress = http://localhost:5158
+
+GET {{ASP.FluentValidation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
